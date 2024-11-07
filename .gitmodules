@@ -7,3 +7,6 @@
 [submodule "task3/task3-charans29"]
 	path = task3/task3-charans29
 	url = https://github.com/School-of-Solana/task3-charans29.git
+[submodule "task4"]
+	path = task4
+	url = https://github.com/School-of-Solana/task4-charans29.git
